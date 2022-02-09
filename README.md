@@ -2,7 +2,7 @@
 ## Olá! Eu sou o Marcos Eduardo 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lmarcos_ed/)
-[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-almeida-34ba13204/)
+[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-almeida-651254231/)
 
 ![Marcoss GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMarcosEd&show_icons=true&theme=dracula)
 
