@@ -20,4 +20,4 @@
     
 </div><br/>
 
-Apaixonado por tecnologia, cursando ADS no Centro Universitário do Distrito Federal - UDF.
+Apaixonado por tecnologia.
