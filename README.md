@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarcosEd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Meu portfólio: https://devmarcosed.netlify.app/
+https://devmarcosed.netlify.app/
 
 ## Tecnologias que eu uso no meu dia
 
