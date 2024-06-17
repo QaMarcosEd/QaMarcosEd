@@ -11,7 +11,7 @@ https://devmarcosed.netlify.app/
 
 ## Tecnologias que tenho conhecimento
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5"src="https://img.shields.io/badge/Java-E66E08?style=for-the-badge&logo=mysql&logoColor=white%22"/>
+    <img align="center" alt="html5"src="https://img.shields.io/badge/Java-808080?style=for-the-badge&logo=mysql&logoColor=white%22"/>
     <img align="center" alt="html5"src="https://img.shields.io/badge/Junit-808080?style=for-the-badge&logo=mysql&logoColor=white%22"/>
     <img align="center" alt="html5"src="https://img.shields.io/badge/Selenium-808080?style=for-the-badge&logo=mysql&logoColor=white%22"/>
     <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
