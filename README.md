@@ -11,13 +11,14 @@ https://devmarcosed.netlify.app/
 
 ## Tecnologias que tenho conhecimento
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5"src="https://img.shields.io/badge/Java-808080?style=for-the-badge&logo=mysql&logoColor=white%22"/>
-    <img align="center" alt="html5"src="https://img.shields.io/badge/Junit-808080?style=for-the-badge&logo=mysql&logoColor=white%22"/>
-    <img align="center" alt="html5"src="https://img.shields.io/badge/Selenium-808080?style=for-the-badge&logo=mysql&logoColor=white%22"/>
     <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="html5"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="html5"src="https://img.shields.io/badge/React-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
     <img align="center" alt="html5"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white"/>
+    <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+    <img align="center" alt="Cucumber" src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+    <img align="center" alt="RestAssured" src="https://img.shields.io/badge/RestAssured-3BAA50?style=for-the-badge&logo=rest-assured&logoColor=white"/>
     <img align="center" alt="html5"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img align="center" alt="html5"src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
     <img align="center" alt="html5"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
