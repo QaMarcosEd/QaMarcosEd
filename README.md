@@ -1,3 +1,5 @@
+Olá! Eu sou o Marcos Eduardo 👋
+
 ### Minhas Estatísticas no GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QaMarcosEd&show_icons=true&theme=radical)
