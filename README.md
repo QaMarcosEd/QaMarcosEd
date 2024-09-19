@@ -1,10 +1,10 @@
 ### Minhas Estatísticas no GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QaMarcosEd&show_icons=true&theme=radical)
 
 ### Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QaMarcosEd&layout=compact&theme=radical)
 
 ### Linguagens e Tecnologias para Front-End
 
