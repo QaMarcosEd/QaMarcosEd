@@ -30,8 +30,6 @@ Uma vaga como **QA Júnior**, onde eu possa continuar evoluindo em automação e
 - **LinkedIn:** [linkedin.com/in/marcos-araujo](https://linkedin.com/in/marcos-araujo)
 - **GitHub:** [github.com/QaMarcosEd](https://github.com/QaMarcosEd)
 
----
-
 ✨ Sempre aberto a aprender coisas novas e encarar desafios na área de QA!
 
 ### Minhas Estatísticas no GitHub
@@ -41,8 +39,6 @@ Uma vaga como **QA Júnior**, onde eu possa continuar evoluindo em automação e
 ### Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QaMarcosEd&layout=compact&theme=radical)
-
-
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
