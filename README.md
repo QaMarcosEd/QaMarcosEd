@@ -1,6 +1,10 @@
 # 👋 Olá! Eu sou o Marcos
 
-Atualmente sou QA Jr. em busca de novas oportunidades para crescer profissionalmente e contribuir para times de tecnologia com qualidade e eficiência. Tenho experiência com testes manuais e automatizados, além de boa familiaridade com processos ágeis e ferramentas de mercado.
+Sou apaixonado por tecnologia e qualidade de software! Atualmente atuo como QA Júnior e estou em busca de novas oportunidades para evoluir profissionalmente e contribuir para times com foco em excelência e eficiência.
+
+Tenho experiência prática com testes manuais e automatizados, além de boa familiaridade com processos ágeis e diversas ferramentas do mercado. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades, tanto na área de QA quanto em outras áreas do desenvolvimento.
+
+🚀 Além do meu trabalho como QA, gosto muito de explorar o universo do desenvolvimento front-end e back-end. Tenho feito projetos pessoais simples para entender melhor a construção de aplicações completas, utilizando Node.js, JavaScript, Express, MySQL, HTML e CSS. Ainda considero meu nível básico nessas áreas, mas acredito que esse conhecimento complementa minha atuação como QA e me ajuda a ter uma visão mais ampla dos sistemas que testo.
 
 ## 🚀 Tecnologias e Ferramentas que uso
 
