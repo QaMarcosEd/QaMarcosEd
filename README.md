@@ -31,7 +31,7 @@ Uma vaga como **QA Júnior**, onde eu possa continuar evoluindo em automação e
 ## 📫 Como me encontrar
 
 - **Email:** devmarcoslkd@gmail.com
-- **LinkedIn:** [linkedin.com/in/marcos-araujo](https://linkedin.com/in/marcos-araujo)
+- **LinkedIn:** [linkedin.com/in/marcos-araujo](https://linkedin.com/in/marcos-araujo-28b563292)
 - **GitHub:** [github.com/QaMarcosEd](https://github.com/QaMarcosEd)
 
 ✨ Sempre aberto a aprender coisas novas e encarar desafios na área de QA!
